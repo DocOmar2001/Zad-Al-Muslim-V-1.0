@@ -1,0 +1,7 @@
+{
+  "name": "Zad Al-Muslim",
+  "description": "An Islamic application featuring the Quran, Hadith, Adhkar, a calendar, and inspirational quotes, with a counter for Palestine's occupation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
